@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://hengkidev.my.id">
-   <img href="https://tenor.com/view/alya-gif-1975438848619752595" alt="alya">
+   <img href="[https://tenor.com/view/alya-gif-1975438848619752595](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanAzNnBlb2F5YmluZmloMWx5b2g0ZTZwMWxrdWE1cW5taGg0cXRmZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10z84L4yIDCoi4/giphy.webp)" alt="alya">
   </a>
 </p>
 
