@@ -1,20 +1,42 @@
-<div align="center">
-<img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" align="right" />
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello;I'm+Hengki%2C+a+tech+goblin+and+magical+girl+wannabe+%E2%9C%A9" width="70%" />
-<br><br>
-<pre>
-    💼 BSC @ UFMG • Back-end dev • Platform Engineer
-    💻 System programming languages • DevOps 
-    📖 Software architecture • Distributed systems
-    🎮 Music • Games • Anime • Code • Art
-    🐾 Muffin 🐰 • Cake & Cookie & Pudim & Quindim 🐤🐥
-</pre>
-<br><br>
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
-<br><br><br>
-    
-[![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/ingridrosselis)
-[![](https://img.shields.io/badge/mastodon-6364ff)](https://tech.lgbt/@innng)
-[![](https://img.shields.io/badge/osu!-ff66ab)](https://osu.ppy.sh/users/4606212)
-[![](https://img.shields.io/badge/enka.network-69899c)](https://enka.network/u/Inng/1A4HU1/10000069/1985924/)
-</div>
+<p align="center">
+  <a href="https://yuna0x0.com">
+    <img src="kita-ikuyo-rap.webp" alt="Banner">
+  </a>
+</p>
+
+<h1 align="center">Hi, I'm <a href="https://hengkidev.my.id">Hengki Dev</a>!</h1>
+<p align="center">
+  <a href="https://Hengkidev.my,id">
+    <img src="https://yuna0x0.com/88x31.webp" alt="yuna0x0">
+  </a>
+</p>
+<h3 align="center">Welcome to my GitHub profile :3</h3>
+
+<p align="center">❤ I'm currently working on Software, Anime / Manga, Game Dev, and Content Creation.</p>
+
+<p align="center">
+  <strong><a href="https://hengkidev.my.id">Website</a></strong> |
+  <strong><a href="https://www.instagram.com/alwayshengki/profilecard/?igsh=c2N1bm1rZXRhdnRp">Instagram</a></strong> |
+  <strong><a href="https://www.tiktok.com/@alwayshengkii?_t=8qwBfdd1C2K&_r=1">Tiktok</a></strong> |
+  <strong><a href="https://chat.whatsapp.com/DxaKtmH9pq9JmIOh0JJW0d">Grup Whatsapp</a></strong> |
+  <strong><a href="http://wa.me//+6283151760855">Store</a></strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/yuna0x0"><img src="https://github-readme-stats.vercel.app/api?username=yuna0x0&hide_border=true&show_icons=true" alt="yuna0x0's github stats"></a>
+</p>
+
+<!--
+**yuna0x0/yuna0x0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
