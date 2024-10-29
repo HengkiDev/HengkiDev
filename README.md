@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://hengkidev.my.id">
-   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanAzNnBlb2F5YmluZmloMWx5b2g0ZTZwMWxrdWE1cW5taGg0cXRmZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10z84L4yIDCoi4/giphy.webp" alt="kakashi">
+   <img src="https://media1.tenor.com/m/G2orKp98rJMAAAAC/alya.gif" alt="kakashi">
   </a>
 </p>
 
