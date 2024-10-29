@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://yuna0x0.com">
-    <img src="kita-ikuyo-rap.webp" alt="Banner">
+  <a href="https://hengkidev.my.id">
+    <div class="tenor-gif-embed" data-postid="1975438848619752595" data-share-method="host" data-aspect-ratio="1.26573" data-width="100%"><a href="https://tenor.com/view/alya-gif-1975438848619752595">Alya GIF</a>from <a href="https://tenor.com/search/alya-gifs">Alya GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
   </a>
 </p>
 
