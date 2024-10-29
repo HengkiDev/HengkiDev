@@ -22,9 +22,6 @@
   <strong><a href="http://wa.me//+6283151760855">Store</a></strong>
 </p>
 
-<p align="center">
-  <a href="https://github.com/HengkiDev"><img src="https://github-readme-stats.vercel.app/api?username=yuna0x0&hide_border=true&show_icons=true" alt="HengkiDev's github stats"></a>
-</p>
 
 <!--
 **yuna0x0/yuna0x0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
