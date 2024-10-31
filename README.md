@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://hengkidev.my.id">
-   <img src="https://media3.giphy.com/media/3o7btMCltyDvSgF92E/giphy.gif?cid=6c09b952mgu6ugu0dmxj2we5j8g19zr53n3u02ojz6bj02rl&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="kakashi">
+   <img src="https://media3.giphy.com/media/3o7btMCltyDvSgF92E/giphy.gif?cid=6c09b952mgu6ugu0dmxj2we5j8g19zr53n3u02ojz6bj02rl&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="kakashi" autoplay mute>
   </a>
 </p>
 
