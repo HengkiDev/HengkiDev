@@ -1,6 +1,4 @@
-<style>
-  img { border-radius: 20px;" }
-</style>
+
 
 <p align="center">
   <a href="https://hengkidev.my.id">
